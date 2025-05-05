@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20by-Hasanwlip-black?style=for-the-badge&logo=github" />
+</p>
+
 # 🟢 BEP-20 Transfer Using Approval
 
 Securely transfer approved BEP-20/ERC-20 tokens using `transferFrom()` with Web3.js. Perfect for handling delegated token transfers on-chain.
